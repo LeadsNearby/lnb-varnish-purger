@@ -1,6 +1,8 @@
 # lnb-varnish-purger
 
+**Version:** 1.0.1 <br/>
 **Tested up to:** 4.9.1
+
 ** Initial Upload.  Only purges the Varnish Cache when all Rocket Cache is cleared. **
 
 ## Changelog ##
