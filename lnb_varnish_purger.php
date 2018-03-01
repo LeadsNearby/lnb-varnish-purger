@@ -17,7 +17,7 @@ function purge_varnish_cache() {
 		$url = site_url() . "/.*";
 		$response = wp_remote_request( $url,
     		array(
-        		'method'     => 'PURGE',
+        		'method'   => 'PURGE',
 				'blocking' => false
     		)
 		);
