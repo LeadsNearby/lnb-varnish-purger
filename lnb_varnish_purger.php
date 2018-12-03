@@ -4,7 +4,7 @@
 Plugin Name: LNB Varnish Purger
 Plugin URI: http://www.leadsnearby.com
 Description: Clears the Varnish Cache when the Rocket Cache is Cleared
-Version: 1.0.1
+Version: 1.0.2
 Author: Brian West
 Author URI: http://www.leadsnearby.com
 License: GPLv3

@@ -1,7 +1,7 @@
 # lnb-varnish-purger
 
-**Version:** 1.0.1 <br/>
-**Tested up to:** 4.9.1
+**Version:** 1.0.2 <br/>
+**Tested up to:** 4.9.8
 
 This Wordpress Plugin syncs with WP Rocket to clear the Varnish Cache on HTTPS sites when the Rocket Cache is cleared.  It also clears the Varnish Cache when the WP Rocket Sitemap Preload function is run.
 
